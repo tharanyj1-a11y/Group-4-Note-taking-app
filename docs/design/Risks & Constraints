@@ -1,0 +1,19 @@
+# Risks and Constraints
+
+## Context
+This section explains the possible risks and limitations of our project.  
+It helps the team identify what could go wrong and what boundaries or restrictions we must consider during development.
+
+## Content
+
+### Risks
+- **Technical risks:** There might be bugs or compatibility issues between devices or operating systems.  
+- **Time risks:** Team members may have limited time to finish all parts before the deadline.  
+- **Communication risks:** Misunderstandings may happen between team members during collaboration.  
+- **Security risks:** If the project online, there might be security vulnerabilities or data leaks.  
+
+### Constraints
+- **Time constraint:** The project must be completed within 4 weeks, so we need to plan carefully.  
+- **Resource constraint:** We are using free tools like GitHub and limited hardware (laptops only).  
+- **Knowledge constraint:** Each team member has a different level of experience in coding and GitHub.  
+- **Design constraint:** The final design must follow the instructor’s guidelines and class requirements.
