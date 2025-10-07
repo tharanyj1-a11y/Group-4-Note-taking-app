@@ -4,7 +4,7 @@
 
 - **Wiki**
 
-= [Wiki Home] (../../wiki)
+- [Wiki Home] (../../wiki)
 
 - Design (Wiki)
 
