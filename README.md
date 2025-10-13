@@ -7,11 +7,11 @@
 
 - **Wiki**
 
-- [Wiki Home] (../../wiki)
+- [Wiki Home] ([../../wiki](https://github.com/tharanyj1-a11y/Group-4-Note-taking-app/wiki))
 
-- Design (Wiki)
+- Design ([Wiki](https://github.com/tharanyj1-a11y/Group-4-Note-taking-app/wiki/Design))
 
-- [Proposal (Wiki)] ([../../wiki/Proposal](https://github.com/tharanyj1-a11y/Group-4-Note-taking-app/wiki))
+- [Proposal (Wiki)] ([../../wiki/Proposal](https://github.com/tharanyj1-a11y/Group-4-Note-taking-app/wiki#proposal))
 
 - **In-Repo Drafts (reviewed via PRs)**
 
