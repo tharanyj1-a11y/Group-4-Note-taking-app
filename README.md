@@ -11,7 +11,7 @@
 
 - Design (Wiki)
 
-- [Proposal (Wiki)] (../../wiki/Proposal)
+- [Proposal (Wiki)] ([../../wiki/Proposal](https://github.com/tharanyj1-a11y/Group-4-Note-taking-app/wiki))
 
 - **In-Repo Drafts (reviewed via PRs)**
 
