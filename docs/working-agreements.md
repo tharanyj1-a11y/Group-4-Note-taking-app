@@ -15,3 +15,8 @@
 - We use microsoft teams and instagram to connect with each other
 ### Meeting Etiquettes: 
 - We discuss our agenda when we start to communicate with each other.
+
+## Scribe:
+- Add a highlight feature, so the user can highlight important information/words
+- Main folder and a sub folder to group ideas together by projects, subtopics or other forms of organization
+- A search feature like ctrl-f to find key words quickly to enhance the studying efficiency
